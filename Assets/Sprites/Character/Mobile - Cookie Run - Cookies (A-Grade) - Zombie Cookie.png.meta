@@ -1,0 +1,2229 @@
+fileFormatVersion: 2
+guid: 8c566db4d2b963a4b958404ea34a97d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8615299804105566549
+    second: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1618
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6466a0973d1d01647820a35aa7ad8498
+      internalID: -2066414116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_1
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1616
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8312feaacfc48e468c7f4323e87b92e
+      internalID: 1420644385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_2
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1616
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea53da9029a92e41a1b4842beb7d1b7
+      internalID: 1856487235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_3
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1616
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f6f0019fa814c44bfbee452fa8def7
+      internalID: 1876605826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_4
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 1616
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56aef5d9c147a9448d628e442bcca0b
+      internalID: 1462172229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_5
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1616
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2e1c501eb48824ebc1a99eeb353d17
+      internalID: 1366190642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_6
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 1616
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2653a347ffbad6c449be4643f58c896c
+      internalID: 1606937742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_7
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1616
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84caedbd618a2c74ca5cd9317d1e1da0
+      internalID: -867625387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_8
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 1618
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fda98557fde3a468954d3d22d3823f
+      internalID: 1634927683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_9
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 1618
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49be0b60bda3c07499d40b980475091c
+      internalID: -257680894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_10
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 1618
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b58d6a19e3b4441ada4969d959d0a4
+      internalID: -1211116743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_11
+      rect:
+        serializedVersion: 2
+        x: 3547
+        y: 1618
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dd54e6522be274e9b247f876b106f0
+      internalID: 1412757973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_12
+      rect:
+        serializedVersion: 2
+        x: 3869
+        y: 1618
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c57e9b55264d85409b893009ec340e5
+      internalID: 608931930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_13
+      rect:
+        serializedVersion: 2
+        x: 4191
+        y: 1618
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aceaa036e20e3e45a1795268ae60d7f
+      internalID: 1917839310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_14
+      rect:
+        serializedVersion: 2
+        x: 4513
+        y: 1618
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db4073d23ffe6840b342d56d624b2c9
+      internalID: -808189732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1293
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de152326a66d1e44b8c112f93a0c3a94
+      internalID: 1698607039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_16
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1293
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3143641647fbf9e42b59e45cb21d3e36
+      internalID: 1228030650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_17
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1293
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf585d8319044a441826907953ed4c39
+      internalID: 2134199405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_18
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1293
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c530a5265c1d04fabd48cfd7d834f7
+      internalID: -666492124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_19
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 1295
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7595513e96a139147833a6478d4c546f
+      internalID: -538183391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_20
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1295
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3f72d9b1f83674cad99932f89a1d98
+      internalID: -1916548131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_21
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 1295
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b6c77908122fd47a600f16241470e3
+      internalID: -96098918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_22
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1295
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90bb273a4f17224590e64dc838b12ef
+      internalID: -916549144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_23
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 1295
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0d7e1d24f8efc4f859a2de27055572
+      internalID: -536085692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_24
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 1295
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc41bcbdba14d74fa996bc444a9ab45
+      internalID: 2083892871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_25
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 1295
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6c30fa8d2899743aa02fa6058ffd25
+      internalID: -1874841957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_26
+      rect:
+        serializedVersion: 2
+        x: 3547
+        y: 1295
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d96fe695f99dae409c1732b69cafbe2
+      internalID: 1535721014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_27
+      rect:
+        serializedVersion: 2
+        x: 3869
+        y: 1295
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50e445c58c0fc04ea0b693af4c7e568
+      internalID: -1603641990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_28
+      rect:
+        serializedVersion: 2
+        x: 4191
+        y: 1295
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e29c00082e7b3478a99b9952f86f0a
+      internalID: 1800163616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_29
+      rect:
+        serializedVersion: 2
+        x: 4513
+        y: 1295
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf4a1240dd88c244b5b1901ea09a048
+      internalID: 1855662824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 972
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749f28ae966eb63479a573548f1991fe
+      internalID: 1453645505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_31
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 972
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e5f954b24dd374abaeb08bfbfc9bb7
+      internalID: 1689070726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_32
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 972
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c5e6b8bbf3d644a86876ef8d08873f
+      internalID: 1046163958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_33
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 972
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7a229360b895b46bdbc80301054f52
+      internalID: 137234377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_34
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 972
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c31f290a15db840927f5402006401b
+      internalID: -1243753368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_35
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 972
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5049fbe4d3862194fa7476975e3f60df
+      internalID: -2048186270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_36
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 972
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c5c1e783becce47ac3762016876429
+      internalID: -1239170038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_37
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 972
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46ed3772637b80469d0652da0d0d573
+      internalID: 162797536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_38
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 972
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cae7aa136854545b84d53d37383fd5
+      internalID: 479124397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_39
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 972
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d20eb6890d85d94f8548bf570bd7a3d
+      internalID: 224353264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_40
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 972
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fc20ad0ff1c134e9ff70574133a040
+      internalID: -1214085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_41
+      rect:
+        serializedVersion: 2
+        x: 3547
+        y: 972
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95eef3a94f6b4e4eb1da9cc267dba6f
+      internalID: -1578025329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_42
+      rect:
+        serializedVersion: 2
+        x: 3869
+        y: 972
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b033e02c81bea47a1cef42c09c0ebc
+      internalID: -367235658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_43
+      rect:
+        serializedVersion: 2
+        x: 4191
+        y: 972
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc8d2ff9b5b85144b896ba2fa93b0e7
+      internalID: -894053462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_44
+      rect:
+        serializedVersion: 2
+        x: 4513
+        y: 972
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de99520a6829584da889ed6b2e8a085
+      internalID: -1372738659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_45
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 649
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab66cf8b3071a84586b8a501b4759e4
+      internalID: 1179705133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_46
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 649
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3644f7bcc6cd184882006e4ed3df5d4
+      internalID: 1208584124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_47
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 649
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0297a3a721a7d849b560c3415e7b408
+      internalID: -868846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_48
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 649
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897d5b9da386d7b4c8c6a77d4e847319
+      internalID: 561775098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_49
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 649
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e52e49eb47f7d4eaeb9a9e443114d8
+      internalID: 1314527551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_50
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 649
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f237759e4b8d443827e3a5e6d35afd
+      internalID: -948643389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_51
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 649
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3125d7867d95e49a1c875b7c295c97
+      internalID: 1699193403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_52
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 649
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec69bc1fcc81dae459c2e8fb4f9bbd6d
+      internalID: 245282511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_53
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 649
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e58d9ca5f42a540aa2132e4759fe65
+      internalID: -1411526655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_54
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 649
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808bc7dc536042c4ebe5c346267c0c2f
+      internalID: 1260540473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_55
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 649
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab82e3565eb750a4fb14cd3117426ded
+      internalID: -274505227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_56
+      rect:
+        serializedVersion: 2
+        x: 3547
+        y: 649
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782f78b5ddbc83247a436fc02ad48be5
+      internalID: -1935483785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_57
+      rect:
+        serializedVersion: 2
+        x: 3869
+        y: 649
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302006e54f503ec489e5abc1691360c3
+      internalID: -984095627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_58
+      rect:
+        serializedVersion: 2
+        x: 4191
+        y: 649
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee09685072c298a45b0e2988bb03fc89
+      internalID: 1722163987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_59
+      rect:
+        serializedVersion: 2
+        x: 4513
+        y: 649
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0da36186cbced4d9b0212ce502bdb9
+      internalID: -1785533335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 326
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3becb1d6942154483ec11f39c8e902
+      internalID: -1567598294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_61
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 326
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cbe427c50c573468a59542eaad8d8e
+      internalID: -206407347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_62
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 326
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414884107cec658439368f393c1722f2
+      internalID: 941137831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_63
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 326
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391be43d3823fde4ab23680e9ef77517
+      internalID: -649770193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_64
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 326
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73b6f64e1096bb48a9c3715d1450e83
+      internalID: 1679845936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_65
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 326
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4239697fec31f8e46b93a17fe71092df
+      internalID: -858523414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_66
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 326
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b3a11c5a9ec704ab55fe8de9acfd86
+      internalID: -673950505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_67
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 326
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956ec7714efc55e48a191978f642cbeb
+      internalID: 520277358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_68
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 326
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b282e2c695453ff46850ceb03b9bdd86
+      internalID: -1841793237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_69
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 326
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed0f995429419447bafe16fd12927e0
+      internalID: 1220499076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_70
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 326
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eee13a1b82b884383cd73506adc6e6
+      internalID: 511074247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_71
+      rect:
+        serializedVersion: 2
+        x: 3547
+        y: 326
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fab9a929a867e146b27199675aec058
+      internalID: -950414303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_72
+      rect:
+        serializedVersion: 2
+        x: 3869
+        y: 326
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8608166c914448745b6b964140be5baf
+      internalID: 254618892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_73
+      rect:
+        serializedVersion: 2
+        x: 4191
+        y: 326
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b956d77670faff41a89d47c575fbd7a
+      internalID: -318106835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_74
+      rect:
+        serializedVersion: 2
+        x: 4513
+        y: 326
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04142619d243014db2e5eacbf592d90
+      internalID: -1799578408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_75
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e920cb757aa65341949b047ab8e75f5
+      internalID: 1097313583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_76
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 3
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c2528d2fbc9b34b844fe710e391356
+      internalID: 1084448754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_77
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 3
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6983e8f536ac95d49910384f9dc6041a
+      internalID: 1647334425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_78
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 3
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d375f2a0e799bd84991b177c237c9546
+      internalID: 263573768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_79
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 3
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632435dfd70acfa48bc8e5605f1b858e
+      internalID: 1465403686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_80
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 3
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ca5623fbc607940b75567c218e7db4
+      internalID: 44037151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_81
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 3
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8145e2279b9a2e940805c043c7597886
+      internalID: 1033390037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_82
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 3
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed434fe22cd4b1249a3ec9ced0bb9b91
+      internalID: 599881204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_83
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 3
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d7567543625444a9a39710bf8ee602
+      internalID: -127847966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_84
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 3
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b1ad905f0b6a141b331991772fc75d
+      internalID: 1046711004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_85
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 3
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9e9bb87be5d6145a53179d36157320
+      internalID: -1154156732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_86
+      rect:
+        serializedVersion: 2
+        x: 3547
+        y: 3
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24182b0b4c43cac4d9e7969d49b31f2a
+      internalID: -1933132341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_87
+      rect:
+        serializedVersion: 2
+        x: 3869
+        y: 3
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ca02807982280418c3f7079a93e7a9
+      internalID: -1629282551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_88
+      rect:
+        serializedVersion: 2
+        x: 4191
+        y: 3
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3ee1299913fcf42ae9cf11a87f197c
+      internalID: 1030786625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_89
+      rect:
+        serializedVersion: 2
+        x: 4513
+        y: 3
+        width: 310
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fa0a08a87d053439138b390e162fee
+      internalID: 990567313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8fec2fdc18f03ab4b987d655b6c038a6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_0: -2066414116
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_1: 1420644385
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_10: -1211116743
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_11: 1412757973
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_12: 608931930
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_13: 1917839310
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_14: -808189732
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_15: 1698607039
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_16: 1228030650
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_17: 2134199405
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_18: -666492124
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_19: -538183391
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_2: 1856487235
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_20: -1916548131
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_21: -96098918
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_22: -916549144
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_23: -536085692
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_24: 2083892871
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_25: -1874841957
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_26: 1535721014
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_27: -1603641990
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_28: 1800163616
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_29: 1855662824
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_3: 1876605826
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_30: 1453645505
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_31: 1689070726
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_32: 1046163958
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_33: 137234377
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_34: -1243753368
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_35: -2048186270
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_36: -1239170038
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_37: 162797536
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_38: 479124397
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_39: 224353264
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_4: 1462172229
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_40: -1214085
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_41: -1578025329
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_42: -367235658
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_43: -894053462
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_44: -1372738659
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_45: 1179705133
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_46: 1208584124
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_47: -868846
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_48: 561775098
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_49: 1314527551
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_5: 1366190642
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_50: -948643389
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_51: 1699193403
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_52: 245282511
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_53: -1411526655
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_54: 1260540473
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_55: -274505227
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_56: -1935483785
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_57: -984095627
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_58: 1722163987
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_59: -1785533335
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_6: 1606937742
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_60: -1567598294
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_61: -206407347
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_62: 941137831
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_63: -649770193
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_64: 1679845936
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_65: -858523414
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_66: -673950505
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_67: 520277358
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_68: -1841793237
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_69: 1220499076
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_7: -867625387
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_70: 511074247
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_71: -950414303
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_72: 254618892
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_73: -318106835
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_74: -1799578408
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_75: 1097313583
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_76: 1084448754
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_77: 1647334425
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_78: 263573768
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_79: 1465403686
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_8: 1634927683
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_80: 44037151
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_81: 1033390037
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_82: 599881204
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_83: -127847966
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_84: 1046711004
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_85: -1154156732
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_86: -1933132341
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_87: -1629282551
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_88: 1030786625
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_89: 990567313
+      Mobile - Cookie Run - Cookies (A-Grade) - Zombie Cookie_9: -257680894
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,688 @@
+fileFormatVersion: 2
+guid: 8fa9c1d91cce09d4f89f4197770608ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4723397619445069734
+    second: Mobile - Cookie Run - Effects and Jellies - General Effects_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Effects and Jellies - General Effects_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1540
+        width: 315
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99addbc100a1bf4ebb268a3e718974f
+      internalID: -1578090906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Effects and Jellies - General Effects_1
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1540
+        width: 315
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05580f0f97cb9de4ba1928b3d1a58aea
+      internalID: 1127363451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Effects and Jellies - General Effects_2
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1540
+        width: 315
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ce733b8b3efc248891f730973c0ece
+      internalID: -1641121692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Effects and Jellies - General Effects_3
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1540
+        width: 315
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9448c4ff2aa85c844b778ea22d66e82c
+      internalID: 1289784897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Effects and Jellies - General Effects_4
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1540
+        width: 315
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460f9f6e4c9faea44aece48e76c4f721
+      internalID: -1559419197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Effects and Jellies - General Effects_5
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1540
+        width: 315
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c56402bee4d8224b9f96061ab547ef8
+      internalID: 724974725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Effects and Jellies - General Effects_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2533
+        width: 250
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedee3320ddbe6b47962af9afd8bfcaf
+      internalID: 1328844186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Effects and Jellies - General Effects_7
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2533
+        width: 250
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84251524fb651a74cb9aac0844f233b6
+      internalID: 773769711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Effects and Jellies - General Effects_8
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 2533
+        width: 250
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0833ae586b8160f4198a30de57d60bd2
+      internalID: -1744569962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Effects and Jellies - General Effects_9
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2533
+        width: 250
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9258e5755e1cc0743b7fb5ceeb7a34ab
+      internalID: 1294666265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Effects and Jellies - General Effects_10
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 2533
+        width: 250
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b882edfdb973f4ab812f22de64a4d4
+      internalID: -346069336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Effects and Jellies - General Effects_11
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 2533
+        width: 250
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0da497b0b01e894da5f22f9c1eea3f1
+      internalID: 1297207911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Effects and Jellies - General Effects_12
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 2533
+        width: 250
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd926c0b24416704f85819b2868861a8
+      internalID: 1356252886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Effects and Jellies - General Effects_13
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 2533
+        width: 250
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03347b5099b4604ab32868a06255e8e
+      internalID: -306108983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Effects and Jellies - General Effects_14
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 2533
+        width: 250
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68a88ef704a2dc4199ae275b98099e8
+      internalID: -1235805205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Effects and Jellies - General Effects_15
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 2533
+        width: 250
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cead03cb887ce4ba58c8e965fce920
+      internalID: -1779454181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Effects and Jellies - General Effects_16
+      rect:
+        serializedVersion: 2
+        x: 2606
+        y: 2533
+        width: 250
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339f8c0f3ac4f58449b77a6c731cd4f1
+      internalID: -1480305209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Effects and Jellies - General Effects_17
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2922
+        width: 236
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d2c65d0880bbc48847ef5b403cfb90
+      internalID: -2025736556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Effects and Jellies - General Effects_18
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2922
+        width: 236
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc27e670f658a5242a9ef78a01d17a69
+      internalID: 57530506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Effects and Jellies - General Effects_19
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 2922
+        width: 236
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e06e453ddb1f744bc8fa59962e4c70
+      internalID: -202595933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Effects and Jellies - General Effects_20
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 2922
+        width: 236
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a958bb69838a104598d4074d2d92329
+      internalID: 1237153709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Effects and Jellies - General Effects_21
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 2922
+        width: 236
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481f247dd8735ae42a2a858ff1f28c8e
+      internalID: 995807108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Effects and Jellies - General Effects_22
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 2922
+        width: 236
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4daa6391f1a290e468c80bb4d0b22185
+      internalID: 2079232712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a8eed6b427e5b9a4db38f51af96def31
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mobile - Cookie Run - Effects and Jellies - General Effects_0: -1578090906
+      Mobile - Cookie Run - Effects and Jellies - General Effects_1: 1127363451
+      Mobile - Cookie Run - Effects and Jellies - General Effects_10: -346069336
+      Mobile - Cookie Run - Effects and Jellies - General Effects_11: 1297207911
+      Mobile - Cookie Run - Effects and Jellies - General Effects_12: 1356252886
+      Mobile - Cookie Run - Effects and Jellies - General Effects_13: -306108983
+      Mobile - Cookie Run - Effects and Jellies - General Effects_14: -1235805205
+      Mobile - Cookie Run - Effects and Jellies - General Effects_15: -1779454181
+      Mobile - Cookie Run - Effects and Jellies - General Effects_16: -1480305209
+      Mobile - Cookie Run - Effects and Jellies - General Effects_17: -2025736556
+      Mobile - Cookie Run - Effects and Jellies - General Effects_18: 57530506
+      Mobile - Cookie Run - Effects and Jellies - General Effects_19: -202595933
+      Mobile - Cookie Run - Effects and Jellies - General Effects_2: -1641121692
+      Mobile - Cookie Run - Effects and Jellies - General Effects_20: 1237153709
+      Mobile - Cookie Run - Effects and Jellies - General Effects_21: 995807108
+      Mobile - Cookie Run - Effects and Jellies - General Effects_22: 2079232712
+      Mobile - Cookie Run - Effects and Jellies - General Effects_3: 1289784897
+      Mobile - Cookie Run - Effects and Jellies - General Effects_4: -1559419197
+      Mobile - Cookie Run - Effects and Jellies - General Effects_5: 724974725
+      Mobile - Cookie Run - Effects and Jellies - General Effects_6: 1328844186
+      Mobile - Cookie Run - Effects and Jellies - General Effects_7: 773769711
+      Mobile - Cookie Run - Effects and Jellies - General Effects_8: -1744569962
+      Mobile - Cookie Run - Effects and Jellies - General Effects_9: 1294666265
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

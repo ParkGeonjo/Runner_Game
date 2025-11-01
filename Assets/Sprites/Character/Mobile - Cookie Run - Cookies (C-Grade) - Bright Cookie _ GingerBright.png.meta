@@ -1,0 +1,1677 @@
+fileFormatVersion: 2
+guid: c8d6ed1a046da5b46bd4e2a6b4c337cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2535395336196613280
+    second: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1460
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d75caeebf227c549b494c7719dae534
+      internalID: 1272988986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_1
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1456
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45acabc94aedc24ba7fb48592342634
+      internalID: -691351407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_2
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1456
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e444c8077adf84b9262d627411cdd3
+      internalID: 301845028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_3
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1456
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d07f523f48bf14fa607b45509ab77c
+      internalID: -1204876049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_4
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1456
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03db4edb032f614cbb82c91bdb6304f
+      internalID: 385617210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_5
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1456
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6463389b691473499db27d5a40ab4f8
+      internalID: 707412611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_6
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 1456
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f83593fdef3af45ad961c856e880b5
+      internalID: 1445842482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_7
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1453
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f38ef40b5772546a94f348344e37c6
+      internalID: -1195222207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_8
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 1453
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472593b54dba2264599ddf63037a7a96
+      internalID: -870455535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_9
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 1460
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb46e8ce0694354d8b7c069d0df68c1
+      internalID: 1812680124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_10
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 1460
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd60cc8ad04ed14bb6f65c224157b50
+      internalID: 658171410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1165
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75904d4d985001546971771f7834a9d0
+      internalID: 1859635963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_12
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1165
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a00a251b833b554db630c10e3e90671
+      internalID: -33090989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_13
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1165
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951faef3c51c530469f49ebf08912e9c
+      internalID: -327772297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_14
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1165
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae40b4d90cd84545a0b88f8cf7a9c75
+      internalID: -1470225675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_15
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1168
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6bc4e8f1da96244b5c6db7572fb344
+      internalID: -1509164122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_16
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1168
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a65b1f52eb4f84fb32387e2cb27fd9
+      internalID: -965509272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_17
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 1168
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067dd939c6d3b2844b19c9e0d9ae5de9
+      internalID: 948065301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_18
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 1168
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082723ddcaecb8843aaef47558547074
+      internalID: -515763434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_19
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 1168
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a5e471e36753f49933217399c01b44
+      internalID: -1202989543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_20
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 1168
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2268bbff58cb3894993e183ad45fc573
+      internalID: -39378833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_21
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 1168
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5287b07eafd84fc4f8514163b081ce60
+      internalID: 1554132891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 876
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9274ce96fb37ce94aa2276d566844ea9
+      internalID: 1916370574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_23
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 876
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6884b06adb5bb7143898a3c6ffb3063e
+      internalID: -1186450885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_24
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 876
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18eabfafd8315984784fbaff1e4f2b21
+      internalID: -1447387846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_25
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 876
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb95f33b3e448b4da9b956ea5672beb
+      internalID: -1029856338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_26
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 876
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ef808065231334384f2264ad21e4f0
+      internalID: -1218977399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_27
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 876
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f719038865e4d489c7e9e681d1bf30
+      internalID: 908734442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_28
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 876
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29cd484c7022a04b95bf92a5c1490ea
+      internalID: -1082203140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_29
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 876
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4616235b5dbc64fa7ac56ef4e889ec
+      internalID: -138259399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_30
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 876
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9377106a4e8524cb4f512d9270aa62
+      internalID: -533618029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_31
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 876
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad867d3ba2b928b4391792c39a6b3c99
+      internalID: -1431803674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_32
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 876
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8006898e646d40246b3a562218550573
+      internalID: -872711967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 584
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130bb9540567f06458facb81d053833f
+      internalID: -125404335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_34
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 584
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7becc007c5d9f6447be9722b7ddf09ea
+      internalID: 442487867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_35
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 584
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb39e744a8e22e54180980b76cd28b15
+      internalID: -1391470113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_36
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 584
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f495f68322d3049a432bb1c4eb9c29
+      internalID: 1661473697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_37
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 584
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1422ff6ae3071a0428fc0579bb4fe688
+      internalID: 42345578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_38
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 584
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5334aa0b717f688409df394722fd957a
+      internalID: 2079978308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_39
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 584
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cab5ddaee96e3c47b9b689e4e2a0d0a
+      internalID: -1203714551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_40
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 584
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15120535d3f6e384988907e5140c1cee
+      internalID: 48051028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_41
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 584
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0209aa205ffc8d48a971514aff0e07e
+      internalID: 383267881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_42
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 584
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46367303059905740a6d6cf7a92599e8
+      internalID: -215892898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_43
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 584
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7da0d06fcc809e4d837b2fb0095cff5
+      internalID: -742009843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 294
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05e8969b623a1d419a30466c11b990e
+      internalID: -886493607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_45
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 294
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3709fc7b233ea124caebd19870aef0cc
+      internalID: -353913554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_46
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 294
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a163b3fe5ce7814db782dcfe364114f
+      internalID: -1978613599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_47
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 294
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5736d07198d55a34ba2b83dc51acbe2b
+      internalID: 822568962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_48
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 294
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5f4d2feea31834f90d29ec05becb83
+      internalID: 161522733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_49
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 294
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f09755e7c5122349a2ec4848359ac8a
+      internalID: -1910585753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_50
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 294
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cf957043c0cb04b917942236d7f989
+      internalID: 975561113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_51
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 294
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0a397c1aef60c48a15a51bb9494f35
+      internalID: 862131720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_52
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 294
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1192723d5d49ef41b84126581ef1d69
+      internalID: 1504553785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_53
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 292
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d961c78ecc7b5c48b229d24dafb9763
+      internalID: -292128088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_54
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 292
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2176af48ce6d1484389f6b46cf878094
+      internalID: 313201941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_55
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671237e7dfbb6234195eb5fb7c15920d
+      internalID: -1842755207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_56
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce16a80e87681642bd6f17b34d5e78e
+      internalID: 1152783811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_57
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 0
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d955d8908c9702d408de0ac98dfc17d8
+      internalID: -794404479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_58
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 0
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f12d57604a28a4da78c530cf779824
+      internalID: 549156012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_59
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 0
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda8c916193e9b940b5f19557732900d
+      internalID: 432714082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_60
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 0
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4eecf172144d1745810f53171969b23
+      internalID: -1870316214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_61
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 0
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79bc27cfcac2684d804117c85da94a0
+      internalID: -454315691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_62
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 0
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3129529cea3d0944db42659f288237b1
+      internalID: 696151642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_63
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 0
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb81253271669743ac337a7b9d7da9d
+      internalID: -2099941915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_64
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 0
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ff45cbaabae134fa34048d9d87c3f0
+      internalID: -344215119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_65
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 0
+        width: 276
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b3b49d2e66b7f4296e40f333f9ad84
+      internalID: -1624228205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ee30541474c4b5a47b32279465b1a7fb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_0: 1272988986
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_1: -691351407
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_10: 658171410
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_11: 1859635963
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_12: -33090989
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_13: -327772297
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_14: -1470225675
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_15: -1509164122
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_16: -965509272
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_17: 948065301
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_18: -515763434
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_19: -1202989543
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_2: 301845028
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_20: -39378833
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_21: 1554132891
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_22: 1916370574
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_23: -1186450885
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_24: -1447387846
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_25: -1029856338
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_26: -1218977399
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_27: 908734442
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_28: -1082203140
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_29: -138259399
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_3: -1204876049
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_30: -533618029
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_31: -1431803674
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_32: -872711967
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_33: -125404335
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_34: 442487867
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_35: -1391470113
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_36: 1661473697
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_37: 42345578
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_38: 2079978308
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_39: -1203714551
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_4: 385617210
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_40: 48051028
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_41: 383267881
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_42: -215892898
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_43: -742009843
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_44: -886493607
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_45: -353913554
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_46: -1978613599
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_47: 822568962
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_48: 161522733
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_49: -1910585753
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_5: 707412611
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_50: 975561113
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_51: 862131720
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_52: 1504553785
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_53: -292128088
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_54: 313201941
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_55: -1842755207
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_56: 1152783811
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_57: -794404479
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_58: 549156012
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_59: 432714082
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_6: 1445842482
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_60: -1870316214
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_61: -454315691
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_62: 696151642
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_63: -2099941915
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_64: -344215119
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_65: -1624228205
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_7: -1195222207
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_8: -870455535
+      Mobile - Cookie Run - Cookies (C-Grade) - Bright Cookie _ GingerBright_9: 1812680124
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
